@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS CDK(Cloud development kit)**
 
-- 👨‍💻 All of my projects are available at [https://divya10mishra.github.io/portfolio-website/](https://divya10mishra.github.io/portfolio-website/)
+- 👨‍💻 Portfolio [https://divya10mishra.github.io/portfolio-website/](https://divya10mishra.github.io/portfolio-website/)
 
 - 📝 I regularly write articles on [https://medium.com/@divyamishra10](https://medium.com/@divyamishra10)
 
